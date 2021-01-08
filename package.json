@@ -1,0 +1,37 @@
+{
+  "name": "hello-express",
+  "version": "1.0.0",
+  "description": "CloudUP Altyapı",
+  "main": "bot.js",
+  "scripts": {
+    "watch": "nodemon darknesscode.js",
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "canvacord": "^5.0.8",
+    "dabi-images": "^2.7.5",
+    "dctr-antispam.js": "^0.1.1",
+    "discord-logs": "^1.8.2",
+    "discord.js": "^12.5.0",
+    "fs": "^0.0.2",
+    "funny-words": "^0.1.2",
+    "mathjs": "^8.1.0",
+    "moment": "^2.29.1",
+    "nsfwjs": "^2.3.0",
+    "quick.db": "^7.1.2",
+    "ytdl-core-discord": "^1.2.5",
+    "soundcloud-downloader": "^0.2.3",
+    "simple-youtube-api": "^5.2.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Møøn",
+    "Møøn#0001"
+  ],
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
